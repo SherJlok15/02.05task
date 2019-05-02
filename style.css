@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+}
+
+main {
+  display: flex;
+}
+
+article {
+  background: grey;
+  width: 100px;
+  height: 200px;
+  margin: 20px 0 20px 20px;
+}
